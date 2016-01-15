@@ -2,7 +2,7 @@
 # PhpMyAdmin Dockerfile
 #
 
-FROM apache2-php5
+FROM mmorejon/apache2-php5
 
 MAINTAINER Manuel Morejón <manuel.morejon.85@gmail.com>
 
